@@ -1,4 +1,4 @@
-# Meu-Primeiro-Repositorio-Bootcamp
+# Meu-Primeiro-Repositorio
 Repositório para aprender a utilizar Git/Github
 
 ## Links Úteis
